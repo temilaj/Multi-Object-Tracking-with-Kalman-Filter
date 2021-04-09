@@ -1,0 +1,10 @@
+*.zip
+.ipynb_checkpoints
+__pycache__
+CS585*/
+Localization/
+Segmentation/
+Cell-loc/
+*.jpg
+.DS_Store
+*.gif
